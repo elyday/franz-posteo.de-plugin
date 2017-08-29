@@ -1,0 +1,23 @@
+{
+  "name": "posteo",
+  "version": "0.1.0",
+  "description": "Franz Plugin to implement Posteo E-Mail into Franz",
+  "main": "index.js",
+  "author": "Lars Riße <me@elyday.net>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://posteo.de/login",
+    "serviceName": "Posteo",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
