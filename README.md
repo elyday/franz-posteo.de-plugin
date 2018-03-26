@@ -1,4 +1,6 @@
-# [Franz](http://meetfranz.com/) [Posteo.de](https://posteo.de) Plugin
+# [Franz](http://meetfranz.com/) [Posteo.de](https://posteo.de) Plugin (Outdated)
+**Due to the fact that Franz has discontinued support for custom plugins, this plugin is no longer usable.**
+
 A [Franz](http://meetfranz.com/) Plugin to implement [posteo.de](https://posteo.de) Mail Account.
 
 ## Installation
